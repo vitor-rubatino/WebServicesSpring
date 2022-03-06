@@ -7,5 +7,4 @@ import com.webs.webservice.entities.User;
 public interface UserRepository extends JpaRepository<User, Long>{
 	
 	
-	
 }
